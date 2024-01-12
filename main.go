@@ -2,7 +2,7 @@ package main
 
 import (
 	"opening_api/config"
-	"opening_api/router"
+	"opening_api/internal/presentation/router"
 )
 
 var (

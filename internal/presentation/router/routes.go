@@ -1,7 +1,7 @@
 package router
 
 import (
-	"opening_api/handler"
+	"opening_api/internal/domain/handler"
 
 	"github.com/gin-gonic/gin"
 )
